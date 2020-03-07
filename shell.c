@@ -1,8 +1,6 @@
 /**************************************************************
 * Class: CSC-415-03 Spring 2020
-* Name: Yangesh KC
-* Student ID: 920771082
-* Project: <project name, like Assignment 1 – Simple Shell
+* Project: <project name, like Assignment 1 â€“ Simple Shell
 *
 * File: Shell.c
 * Description:
