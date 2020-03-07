@@ -4,10 +4,6 @@
 * Class: CSC-415-03 Spring 2020
 * Project: Simple Shell (NET_OS --version1)
 *
-* File: < Simple SHell >
-*
-* Description: I have included the description in a separate file 
-*
 **************************************************************/
     #include <sys/wait.h>
 	#include <unistd.h>
